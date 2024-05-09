@@ -1,12 +1,16 @@
 # Bem vindo!!
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jefersonrodrigal&show_icons=true&theme=radical)
 
-## Um pouco sobre mim :)
+
+
+## Um pouco sobre mim 
 <div>
 <p>
  Sou desenvolvedor graduado em redes de computadores, estou atualmente me especializarando em engenharia de software e desenvolvimento fullstack.
 </p>
 </div>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jefersonrodrigal&layout=compact&langs_count=7&theme=radical)
 
 ## Rede Social
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/jefersonrodrigal))
