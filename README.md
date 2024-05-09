@@ -16,7 +16,7 @@
 <br>
 
 <div>
-    <strong> OBS: Alguns repositórios podem estar privados, podem entrar em contato que faço o compartilhamento </strong>
+    <strong> OBS: Alguns repositórios podem estar privados, podem entrar em contato que faço o compartilhamento.</strong>
 </div>
 
 ## Rede Social
