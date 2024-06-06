@@ -20,7 +20,7 @@
 </div>
 
 <q>
-    "Não existem limites para aqueles que possuem a capacidade de sonhar e a determinação de transformar seu sonho em realidade!"
+    Não existem limites para aqueles que possuem a capacidade de sonhar e a determinação de transformar seu sonho em realidade!
 </q>
 
 ## Rede Social
