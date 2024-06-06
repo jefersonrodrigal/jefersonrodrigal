@@ -14,16 +14,15 @@
     </p>
 </div>
 <br>
-
-<div>
-    <strong> OBS: Alguns repositórios podem estar privados, podem entrar em contato que faço o compartilhamento.</strong>
-</div>
-<br>
 <div>
     <q>
         Não existem limites para aqueles que possuem a capacidade de sonhar e a determinação de transformar seu sonho em realidade!
     </q>
 <div>
+<br>
+<div>
+    <strong> OBS: Alguns repositórios podem estar privados, podem entrar em contato que faço o compartilhamento.</strong>
+</div>
 <br>
     
 ## Rede Social
