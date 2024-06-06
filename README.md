@@ -18,12 +18,14 @@
 <div>
     <strong> OBS: Alguns repositórios podem estar privados, podem entrar em contato que faço o compartilhamento.</strong>
 </div>
-br
+<br>
 <div>
     <q>
         Não existem limites para aqueles que possuem a capacidade de sonhar e a determinação de transformar seu sonho em realidade!
     </q>
 <div>
+<br>
+    
 ## Rede Social
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/jefersonrodrigal))
 
