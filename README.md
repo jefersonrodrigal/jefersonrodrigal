@@ -10,7 +10,8 @@
 ## Um pouco sobre mim 
 <div>
     <p>
-        Sou desenvolvedor graduado em redes de computadores, estou atualmente me especializarando em engenharia de software e desenvolvimento fullstack.
+        Sou desenvolvedor graduado em redes de computadores, especialista em engenharia de software e também especialista em desenvolvimento full stack.
+        Atualmente estou buscando uma nova especialização voltada para a plataforma .NET.
     </p>
 </div>
 <br>
