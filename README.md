@@ -10,7 +10,7 @@
 ## Um pouco sobre mim 
 <div>
     <p>
-         Sou desenvolvedor Python com 2 anos de experiência em criar soluções robustas e eficientes para problemas complexos.
+         Sou desenvolvedor Python com 3 anos de experiência em criar soluções robustas e eficientes para problemas complexos.
          Meu interesse como profissional é transformar ideias em sistemas funcionais, aplicando as melhores práticas de desenvolvimento e sempre buscando inovação.
          Ao longo da minha carreira, trabalhei em projetos que vão desde automação de processos e integração de APIs até desenvolvimento de aplicações web escaláveis com frameworks como FastApi e Flask.
          Tenho experiência com bancos de dados relacionais (PostgreSQL, SQL Server) e não relacionais (MongoDB), além de um sólido entendimento de práticas de DevOps, incluindo Docker e CI/CD.
