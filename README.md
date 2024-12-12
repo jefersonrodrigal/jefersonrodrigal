@@ -10,7 +10,11 @@
 ## Um pouco sobre mim 
 <div>
     <p>
-        Sou desenvolvedor graduado em redes de computadores, especialista em engenharia de software e também especialista em desenvolvimento full stack.
+         Sou desenvolvedor Python com 2 anos de experiência em criar soluções robustas e eficientes para problemas complexos. Meu interesse como profissional é transformar ideias em sistemas funcionais, aplicando as melhores práticas de        
+         desenvolvimento e sempre buscando inovação.
+         Ao longo da minha carreira, trabalhei em projetos que vão desde automação de processos e integração de APIs até desenvolvimento de aplicações web escaláveis com frameworks como FastApi e Flask. Tenho experiência com bancos de dados 
+         relacionais (PostgreSQL, SQL Server) e não relacionais (MongoDB), além de um sólido entendimento de práticas de DevOps, incluindo Docker e CI/CD.
+         Atualmente, busco oportunidades que me permitam aplicar minhas habilidades em Python para resolver desafios tecnológicos de alto impacto e complexidade, enquanto colaboro com equipes dinâmicas e inovadoras.
     </p>
 </div>
 <br>
@@ -20,9 +24,6 @@
     </q>
 <div>
 <br>
-<div>
-    <strong> OBS: Alguns repositórios podem estar privados, podem entrar em contato que faço o compartilhamento.</strong>
-</div>
 <br>
     
 ## Stack
