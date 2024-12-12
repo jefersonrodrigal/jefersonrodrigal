@@ -2,10 +2,10 @@
 
 ## Um rápido Overview
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jefersonrodrigal&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jefersonrodrigal&show_icons=true&theme=gruvbox)
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jefersonrodrigal&layout=compact&langs_count=7&theme=merko)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jefersonrodrigal&layout=compact&langs_count=7&theme=gruvbox)
 
 ## Um pouco sobre mim 
 <div>
