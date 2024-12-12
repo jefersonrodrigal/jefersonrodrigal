@@ -2,7 +2,7 @@
 
 ## Um rápido Overview
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jefersonrodrigal&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jefersonrodrigal&show_icons=false&theme=tokyonight)
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jefersonrodrigal&layout=compact&langs_count=7&theme=tokyonight)
