@@ -30,3 +30,5 @@
 ## Ferramentas que utilizo
 ![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) ![](https://img.shields.io/badge/Git-E34F26?logo=git&logoColor=white&style=for-the-badge)
 
+![1733915665032](https://github.com/user-attachments/assets/4c02cc00-e9c8-49a2-b8d9-8707a58df00e)
+
