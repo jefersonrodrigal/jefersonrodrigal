@@ -7,7 +7,7 @@
 ## Um pouco sobre mim 
 <div>
     <p>
-        <p>Sou desenvolvedor capaz de atuar com as tecnologias Python e .NET, em times multi disciplinares.
+        <p>Sou desenvolvedor Python 
         Possuo habilidade em criar soluções robustas e eficientes para problemas complexos. Meu interesse como profissional é transformar ideias em sistemas funcionais, aplicando as melhores práticas de desenvolvimento e sempre buscando 
         inovação.</p>
         <p>Ao longo da minha carreira, trabalhei em projetos que vão desde automação de processos e integração de APIs até desenvolvimento de aplicações web escaláveis com frameworks como FastApi e Flask.
