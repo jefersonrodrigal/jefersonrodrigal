@@ -10,7 +10,7 @@
         <p>Sou desenvolvedor 
         Possuo habilidade em criar soluções robustas e eficientes para problemas complexos. Meu interesse como profissional é transformar ideias em sistemas funcionais, aplicando as melhores práticas de desenvolvimento e sempre buscando 
         inovação.</p>
-        <p>Ao longo da minha carreira, trabalhei em projetos que vão desde automação de processos e integração de APIs até desenvolvimento de aplicações web escaláveis com frameworks como FastApi e Flask.
+        <p>Ao longo da minha carreira, trabalhei em projetos que vão desde automação de processos e integração de APIs até desenvolvimento de aplicações web escaláveis com Asp.NET.
         Tenho experiência com bancos de dados relacionais (PostgreSQL, SQL Server) e não relacionais (MongoDB), além de um sólido entendimento de práticas de DevOps, incluindo Docker e CI/CD.</p>
         <p>Atualmente, busco oportunidades que me permitam aplicar minhas habilidades para resolver desafios tecnológicos de alto impacto e complexidade, enquanto colaboro com equipes dinâmicas e inovadoras. </p>
     </p>
