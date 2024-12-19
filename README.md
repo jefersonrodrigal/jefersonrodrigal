@@ -12,7 +12,7 @@
         inovação.</p>
         <p>Ao longo da minha carreira, trabalhei em projetos que vão desde automação de processos e integração de APIs até desenvolvimento de aplicações web escaláveis com frameworks como FastApi e Flask.
         Tenho experiência com bancos de dados relacionais (PostgreSQL, SQL Server) e não relacionais (MongoDB), além de um sólido entendimento de práticas de DevOps, incluindo Docker e CI/CD.</p>
-        <p>Atualmente, busco oportunidades que me permitam aplicar minhas habilidades em Python para resolver desafios tecnológicos de alto impacto e complexidade, enquanto colaboro com equipes dinâmicas e inovadoras. </p>
+        <p>Atualmente, busco oportunidades que me permitam aplicar minhas habilidades para resolver desafios tecnológicos de alto impacto e complexidade, enquanto colaboro com equipes dinâmicas e inovadoras. </p>
     </p>
     <h3>Minhas principais habilidades incluem:</h3>
     <ul>
