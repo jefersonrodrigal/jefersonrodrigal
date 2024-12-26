@@ -2,7 +2,7 @@
 
 ## Um rápido Overview
 
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jefersonrodrigal&layout=compact&langs_count=7&theme=highcontrast)
 
 ## Um pouco sobre mim 
 <div>
