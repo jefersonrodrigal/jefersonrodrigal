@@ -2,7 +2,7 @@
 
 ## Um rápido Overview
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jefersonrodrigal&layout=compact&langs_count=7&theme=highcontrast)
+![C# ASP.NET](https://github.com/user-attachments/assets/aefb8b07-de3d-40e6-954d-4356aaee1d3e)
 
 ## Um pouco sobre mim 
 <div>
