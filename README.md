@@ -7,9 +7,8 @@
 ## Um pouco sobre mim 
 <div>
     <p>
-        <p>Com pouco mais de 5 anos de experiência na área de tecnologia, minha trajetória abrange desde a administração de redes até o desenvolvimento de soluções avançadas para automação de processos.
-           Através destes que me familiarizei com a linguagem Python e adquiri habilidade para criar soluções ágeis para problemas complexos.</p>
-        <p>Possuo graduação em redes de computadores. e especialização em engenharia de software e também em desenvolvimento full stack. 
+        <p>Com pouco mais de 5 anos de experiência na área de tecnologia, minha trajetória abrange desde a administração de redes até o desenvolvimento de soluções avançadas para automação de processos.</p>
+        <p>Possuo graduação em redes de computadores, especialização em engenharia de software e também em desenvolvimento full stack. 
             Sendo por meio das especializações que tive um contato enorme com tecnologias voltadas para o paradigma de programação orientado a objetos o qual me levou a conhecer o ecossistema da plataforma .NET</p>
         <p>Meu interesse como profissional é transformar ideias em sistemas funcionais, aplicando as melhores práticas de desenvolvimento e sempre buscando inovação.</p>
     </p>
