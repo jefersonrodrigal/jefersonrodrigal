@@ -4,7 +4,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jefersonrodrigal&layout=compact&langs_count=7&theme=highcontrast)
 
-![Image](https://github.com/user-attachments/assets/1737944d-06cf-4a23-b859-a51ae5b930fc)
+![](https://github.com/user-attachments/assets/1737944d-06cf-4a23-b859-a51ae5b930fc)
 
 ## Um pouco sobre mim 
 <div>
