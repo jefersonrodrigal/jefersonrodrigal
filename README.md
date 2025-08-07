@@ -44,5 +44,5 @@
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 
-![Image](https://github.com/user-attachments/assets/d4b90d6e-5b0b-4bfd-988c-b4a8370516f1)    
+![Image](https://github.com/user-attachments/assets/2b43411d-23d0-4d0d-88be-37934e393b9a)
 
