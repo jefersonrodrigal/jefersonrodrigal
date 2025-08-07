@@ -38,7 +38,6 @@
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![EF Core](https://img.shields.io/badge/EF_Core-6C3483?style=for-the-badge&logo=entityframework&logoColor=white)
-![ASP.NET Core Web API](https://img.shields.io/badge/ASP.NET_Core_Web_API-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![T-SQL](https://img.shields.io/badge/T--SQL-00758F?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
