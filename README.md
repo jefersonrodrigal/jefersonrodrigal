@@ -34,5 +34,5 @@
 
 
 ## Stack
-![Image](https://github.com/user-attachments/assets/cebec366-9f21-4a07-acf6-2e98ff4ff7ca)
+![Image](https://github.com/user-attachments/assets/d4b90d6e-5b0b-4bfd-988c-b4a8370516f1)
 
