@@ -1,12 +1,12 @@
-# 👋 Bem-vindo!!
+# Bem-vindo!!
 
-## 🚀 Um rápido Overview
+## Um rápido Overview
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jefersonrodrigal&layout=compact&langs_count=7&theme=highcontrast)
 
 ![](https://github.com/user-attachments/assets/1737944d-06cf-4a23-b859-a51ae5b930fc)
 
-## 👨‍💻 Um pouco sobre mim 
+## Um pouco sobre mim 
 <div>
     <p>Com mais de 5 anos de experiência na área de tecnologia, construí uma trajetória sólida que vai desde a administração de redes até o desenvolvimento de soluções avançadas voltadas à automação de processos e sistemas corporativos.</p>
     
