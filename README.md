@@ -44,9 +44,7 @@ Tenho como objetivo **transformar ideias em sistemas funcionais**, aplicando boa
 
 ## 🌐 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=githubpages&logoColor=white)](https://seu-portfolio.dev)
-[![Email](https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefersonrodrigal/)
 
 ---
 
