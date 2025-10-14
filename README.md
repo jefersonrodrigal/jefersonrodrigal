@@ -27,7 +27,6 @@
 
 <br>
 <br>
-<div align="center">
     ##Stack
     ![C# Badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
     ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -37,7 +36,6 @@
     ![T-SQL](https://img.shields.io/badge/T--SQL-00758F?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
     ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
     ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-<div>
 <div align="center">
    <img src="https://github.com/user-attachments/assets/8f91c568-34ec-48b9-bee4-c64fbb4b859f" width="90%" height=600px/>
 </div>
