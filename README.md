@@ -4,8 +4,6 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jefersonrodrigal&layout=compact&langs_count=7&theme=highcontrast)
 
-![Image](https://github.com/user-attachments/assets/8f91c568-34ec-48b9-bee4-c64fbb4b859f)
-
 ## Um pouco sobre mim 
 <div>
     <p>Com mais de 5 anos de experiência na área de tecnologia, construí uma trajetória sólida que vai desde a administração de redes até o desenvolvimento de soluções avançadas voltadas à automação de processos e sistemas corporativos.</p>
@@ -42,4 +40,4 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-![Image](https://github.com/user-attachments/assets/5833f9de-540b-48d2-b258-486d88ffbf33)
+![Image](https://github.com/user-attachments/assets/8f91c568-34ec-48b9-bee4-c64fbb4b859f)
