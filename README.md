@@ -33,5 +33,5 @@
 <br>
 <br>
 <div align="center">
-   <img src="https://github.com/user-attachments/assets/8f91c568-34ec-48b9-bee4-c64fbb4b859f" width="90%" height=400px/>
+   <img src="https://github.com/user-attachments/assets/8f91c568-34ec-48b9-bee4-c64fbb4b859f" width="90%" height=600px/>
 </div>
