@@ -33,5 +33,5 @@
 <br>
 <br>
 <div align="center">
-    ![Image](https://github.com/user-attachments/assets/8f91c568-34ec-48b9-bee4-c64fbb4b859f)
+   <img src="https://github.com/user-attachments/assets/8f91c568-34ec-48b9-bee4-c64fbb4b859f"/>
 </div>
