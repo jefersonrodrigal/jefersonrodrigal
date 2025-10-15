@@ -1,6 +1,6 @@
-# 👋 Bem-vindo ao meu GitHub!
+# Bem-vindo ao meu GitHub!
 
-## 🚀 Um rápido overview
+## Um rápido overview
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jefersonrodrigal&layout=compact&langs_count=7&theme=highcontrast)
 
@@ -8,7 +8,7 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+## Sobre mim
 
 Com mais de **5 anos de experiência** na área de tecnologia, minha trajetória abrange desde a **administração de redes** até o **desenvolvimento de soluções avançadas para automação de processos**.
 
@@ -19,7 +19,7 @@ Tenho como objetivo **transformar ideias em sistemas funcionais**, aplicando boa
 
 ---
 
-## 🧠 Principais habilidades
+## Principais habilidades
 
 - Desenvolvimento e manutenção de aplicações web  
 - Automação de processos e integração de APIs  
@@ -29,7 +29,7 @@ Tenho como objetivo **transformar ideias em sistemas funcionais**, aplicando boa
 
 ---
 
-## 🛠️ Tecnologias que utilizo
+## Tecnologias que utilizo
 
 ![C# Badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -42,7 +42,7 @@ Tenho como objetivo **transformar ideias em sistemas funcionais**, aplicando boa
 
 ---
 
-## 🌐 Onde me encontrar
+## Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefersonrodrigal/)
 
