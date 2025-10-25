@@ -49,5 +49,5 @@ Tenho como objetivo **transformar ideias em sistemas funcionais**, aplicando boa
 ---
 
 <div align="center">
-   <img src="https://github.com/user-attachments/assets/8dc9a3ac-ff6d-4534-9f39-3d2d322f5de2" width="90%" />
+   <img src="https://github.com/user-attachments/assets/8dc9a3ac-ff6d-4534-9f39-3d2d322f5de2" width="100%" />
 </div>
