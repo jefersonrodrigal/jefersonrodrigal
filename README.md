@@ -8,8 +8,6 @@
 
 ---
 
-## Sobre mim
-
 Com mais de **5 anos de experiência** na área de tecnologia, minha trajetória abrange desde a **administração de redes** até o **desenvolvimento de soluções avançadas para automação de processos**.
 
 Sou **graduado em Redes de Computadores** e possuo **especializações em Engenharia de Software** e **Desenvolvimento Full Stack**.  
