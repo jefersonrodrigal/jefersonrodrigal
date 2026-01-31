@@ -87,11 +87,3 @@ Busco oportunidades em ambientes que valorizem:
 - Práticas modernas de **DevOps** e **CI/CD**
 
 ---
-
-### 🔎 Palavras-chave (ATS)
-
-`Java` · `Backend Developer` · `Software Engineer` · `Spring Boot` · `Spring Framework` · `Hibernate` · `JPA` · `Microsserviços` · `APIs REST` · `CI/CD` · `Docker` · `Git` · `Clean Code` · `SOLID` · `Design Patterns` · `Scrum` · `Kanban`
-
----
-
-📌 _Perfil alinhado a vagas técnicas de médio e sênior nível, com foco em backend Java e engenharia de software._
