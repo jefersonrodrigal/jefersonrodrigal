@@ -1,4 +1,4 @@
-# 👨‍💻 Perfil Profissional
+# Perfil Profissional
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -14,7 +14,7 @@ Graduado em **Redes de Computadores**, com especializações em **Engenharia de 
 
 ---
 
-## 💼 Experiência Profissional
+## Experiência Profissional
 
 Profissional com mais de **5 anos de experiência em Desenvolvimento de Software**, atuando principalmente como **Backend Java Developer**, com forte foco em **engenharia de software**, **arquitetura de sistemas** e **boas práticas de desenvolvimento**.
 
@@ -31,7 +31,7 @@ Atuação voltada à entrega de sistemas **escaláveis**, **resilientes**, **seg
 
 ---
 
-## 🧱 Princípios Técnicos e Boas Práticas
+## Princípios Técnicos e Boas Práticas
 
 Atuação orientada por princípios consolidados de engenharia de software, amplamente valorizados em processos seletivos técnicos:
 
@@ -44,7 +44,7 @@ Atuação orientada por princípios consolidados de engenharia de software, ampl
 
 ---
 
-## 🛠️ Stack Tecnológica
+## Stack Tecnológica
 
 ### Linguagens
 
@@ -74,7 +74,7 @@ Atuação orientada por princípios consolidados de engenharia de software, ampl
 
 ---
 
-## 🎯 Objetivo Profissional
+## Objetivo Profissional
 
 Atuar como **Backend Java Developer** ou **Software Engineer**, contribuindo para times de tecnologia que demandem **alto nível técnico**, **escalabilidade**, **performance** e **qualidade de software**.
 
