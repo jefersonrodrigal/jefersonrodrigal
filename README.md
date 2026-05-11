@@ -35,7 +35,7 @@ Graduado em **Redes de Computadores**, com especializações em:
 - 💻 Desenvolvimento Full Stack
 - 💻 Desenvolvimento de Sistemas com Java
 - 💻 Desenvolvimento Back End com Ênfase em Java
-- 💻 Desenvolvimento Orientado a Objetos Com Java
+- 💻 Desenvolvimento Orientado a Objetos com Java
 - 💻 Java Applied Engineering
 
 Minha trajetória me proporcionou uma visão completa do ciclo de desenvolvimento, desde infraestrutura até aplicações escaláveis e de alta performance.
