@@ -122,7 +122,7 @@ Tenho grande interesse em ambientes colaborativos, ágeis e orientados à inova�
 
 # 🤝 Vamos Conectar?
 
-- 💼 LinkedIn: www.linkedin.com/in/jeferson-almeida
+- 💼 LinkedIn: www.linkedin.com/in/jeferson-almeida-54a947388
 - 📧 Email: jefersonrodrigoalmeida@outlook.com
 
 ---
