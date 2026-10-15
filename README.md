@@ -72,9 +72,9 @@ Tenho foco no desenvolvimento **Backend com Python**, construindo arquiteturas q
 | Categoria | Tecnologias / Ecossistema |
 | :--- | :--- |
 | **Linguagens & Frameworks** | `Python` `FastAPI` `Flask` |
-| **Bancos de Dados & SQL** | `PostgreSQL` `SQL Server` `Oracle SQL` `SQLite` |
+| **Bancos de Dados & SQL** | `PostgreSQL` `SQL Server` `SQLite` |
 | **Inteligência Artificial** | `LLMs` `RAG` `AI Agents` `LangChain` `Prompt Engineering` |
-| **Integrações & ERP** | `REST APIs` `Web Services (SOAP/JSON)` `Senior ERP` `TEF` |
+| **Integrações & ERP** | `REST APIs` `Web Services (SOAP/JSON)` `ERP` |
 | **Infraestrutura & DevOps** | `Docker` `Git` `GitHub` `Linux` |
 
 ---
