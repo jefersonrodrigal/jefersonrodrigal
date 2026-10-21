@@ -2,7 +2,7 @@
 
 # 👨‍💻 Jeferson Almeida
 
-**Desenvolvedor de Integrações e Automação | ERP, APIs, Web Services e SQL**
+**Desenvolvedor de Integrações e Automação | Python | IA Generativa | APIs, Web Services, SQL e ERP**
 
 Conectando sistemas corporativos, automatizando processos e transformando necessidades de negócio em soluções técnicas.
 
