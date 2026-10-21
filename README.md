@@ -155,6 +155,7 @@ Desenvolvimento e validação, em ambiente controlado, de um agente de IA basead
 - **Especialização em Análise e Desenvolvimento de Sistemas em Python** — Uniube (2026–2027).
 - **Especialização em Desenvolvimento de Sistemas com Python** — UniCesumar (2025–2026).
 - **Especialização em Desenvolvimento Fullstack** — Estácio (2023–2024).
+- **Curso Superior de Tecnologia (CST) - Redes de Computadores** — Estácio (2019–2021).
 
 *Os períodos e o status de cada formação devem permanecer consistentes com os registros acadêmicos e com o LinkedIn.*
 
