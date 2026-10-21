@@ -92,8 +92,6 @@ Meu foco é desenvolver soluções de integração e automação que reduzam tar
 | **Infraestrutura e ferramentas** | `Linux` `Docker` |
 | **Inteligência Artificial** | `LLMs` `Tool Calling` `IA Generativa` |
 
-*As tecnologias listadas representam áreas de atuação e conhecimentos mencionados no meu histórico profissional. A experiência prática pode variar conforme a tecnologia e o projeto.*
-
 ---
 
 ## 💼 Experiência Profissional
