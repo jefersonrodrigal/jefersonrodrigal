@@ -157,8 +157,6 @@ Desenvolvimento e validação, em ambiente controlado, de um agente de IA basead
 - **Especialização em Desenvolvimento Fullstack** — Estácio (2023–2024).
 - **Curso Superior de Tecnologia (CST) - Redes de Computadores** — Estácio (2019–2021).
 
-*Os períodos e o status de cada formação devem permanecer consistentes com os registros acadêmicos e com o LinkedIn.*
-
 ---
 
 ## 📌 Em Desenvolvimento
